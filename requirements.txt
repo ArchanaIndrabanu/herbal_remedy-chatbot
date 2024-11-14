@@ -1,0 +1,5 @@
+streamlit
+pymongo
+sentence-transformers
+torch
+transformers
